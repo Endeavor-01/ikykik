@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #276dbd;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #da3d04;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.luffy{
+  background-image: url(img/char1.jpg);
+  background-size: 230px;
+ 
+}
+.goku{
+  background-image: url(img/goku.jpg);
+  background-size: 230px;
+}
+.gojo{
+  background-image: url(img/gojo.jpg);
+  background-size: 227px;
+}
+
+.kira{
+  background-image: url(img/kira.jpg);
+  background-size: 180px;
+}
+.peter{
+  background-image: url(img/peter.webp);
+  background-size: 210px;
+}
+.JOJO{
+  background-image: url(img/Jojo.jpeg);
+  background-size: 200px;
+}
+.dazai{
+background-image: url(img/dazai.jpg);
+background-size: 230px;
+
+}
+.game-over {
+  background-color: rgb(255, 51, 0);
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: rgb(255, 106, 0);
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  
+  line-height: 2;
+  font-weight: 900;
+  color: #a1da04;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
